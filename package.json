@@ -1,6 +1,6 @@
 {
   "name": "Academie_Tamayuz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
 
   "scripts": {
@@ -43,7 +43,7 @@
       {
         "provider": "github",
         "owner": "mohamedtayeb1129-commits",
-        "repo": "desktop",
+        "repo": "academy_desktop",
         "releaseType": "release"
       }
     ]
